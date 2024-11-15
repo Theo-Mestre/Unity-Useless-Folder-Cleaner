@@ -10,8 +10,8 @@ Optimizes project size, making it more manageable for archiving and sharing.
 ### Usage:
 [Download](https://github.com/Theo-Mestre/Unity-Useless-Folder-Cleaner/releases/tag/v1.0) the .bat file. <br />
 Place it in your Unity project folder. <br />
-Run the script to automatically clean up unneeded files.
-
+Run the script to automatically clean up unneeded files. <br />
+If the script doesn't run right after closing Unity, wait a few seconds for the engine to fully shut down.
 
 
 > **Note:** The cleaner will permanently delete files. If you want to modify the files, ensure you have backed up your project before running the cleaner.
