@@ -1,5 +1,7 @@
 @echo off
 
+rmdir /s /q  .vs
+rmdir /s /q  obj
 rmdir /s /q  Library
 rmdir /s /q  Logs
 rmdir /s /q  Temp
@@ -9,3 +11,5 @@ del /S *.sln
 del /S *.csproj
 del /S *.vsconfig
 del /S *.vcxproj.user
+
+pause
