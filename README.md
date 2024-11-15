@@ -8,7 +8,7 @@ Retains only the core Assets, Packages, and Project Settings needed to rebuild t
 Optimizes project size, making it more manageable for archiving and sharing.
 
 ### Usage:
-Download the .bat file. <br />
+[Download](https://github.com/Theo-Mestre/Unity-Useless-Folder-Cleaner/releases/tag/v1.0) the .bat file. <br />
 Place it in your Unity project folder. <br />
 Run the script to automatically clean up unneeded files.
 
